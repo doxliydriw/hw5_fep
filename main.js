@@ -16,15 +16,15 @@ if (city == null) {
 } else if (city == 'london') {
     alert('You are living in England')
 } else {
-    alert('You are living in sity '+city)
+    alert('You are living in city '+city)
 }
-if (sport = null) {
+if (sport == null) {
     alert ("Sorry you haven't entered your favorit sport")
-} else if (sport = 'box') {
+} else if (sport == 'box') {
     alert ('Wow, want to be like Klitchko?!')
-} else if (sport = 'football') {
+} else if (sport == 'football') {
     alert ('Wow, want to be like Schevchenko?!')
-} else if (sport = 'tennis') {
+} else if (sport == 'tennis') {
     alert ('Wow, want to be like Svitolina?!')
 }
 
